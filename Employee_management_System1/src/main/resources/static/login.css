@@ -1,0 +1,45 @@
+.bgcontainer{
+	background: linear-gradient(to left, #99ff66 0%, #cc99ff 99%);
+	padding:100px;
+	background-size: cover;
+}
+.logo_container{
+	text-align: center;
+     margin: 24px 0 12px 0;
+}
+.logo{
+	width:30%;
+	border-radius: 30%;
+}
+.login{
+	 background: linear-gradient(to left, #000000 0%, #00ffff 99%);
+	width:370px;
+	border-radius:50px;
+
+}
+.head{
+	padding:10px;
+	border-radius: 15px;
+}
+#btn1{
+	border-radius:10px;
+	background-color: blue;
+	color:white;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size:large;
+	border-color:black;
+	
+}
+.h2{
+	color:whitesmoke;
+}
+#b{
+	border-radius: 15px;
+	padding:10px;
+}
+.forget_password_design{
+	text-align: center;
+     color:gold;
+     font-size: medium;
+	
+}

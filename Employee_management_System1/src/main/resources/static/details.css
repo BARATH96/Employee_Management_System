@@ -1,0 +1,42 @@
+.navbar_1{
+	box-shadow: rgba(0,0,0,0.25) 0px 54px 55px,rgba(0,0,0.12) 0px -12px 30px;
+   background: linear-gradient(to bottom, #66ff66 0%, #000000 100%);
+   color:white;
+  
+}
+.active{
+     font-size: 20px;
+     margin:10px;
+}
+.b{
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color:gold;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin-top: 50px;
+  margin-left:100px;
+}
+.b1{
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color:brown;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin-top: 50px;
+  margin-left:180px;
+}
